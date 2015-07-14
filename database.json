@@ -1,0 +1,9 @@
+{
+  "dev": {
+    "driver": "pg",
+    "user": "homestead",
+    "password": "secret",
+    "host": "localhost",
+    "database": "userauth"
+  }
+}
